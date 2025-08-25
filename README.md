@@ -1,4 +1,5 @@
 # 花朵分类
+# 因数据集涉及到隐私,如需要请联系wanggang userbean@outlook.com
 <img width="1468" height="746" alt="image" src="https://github.com/user-attachments/assets/c43f908e-65a3-4890-94cb-b91f32bb1f13" />
 
 <img width="1680" height="1180" alt="image" src="https://github.com/user-attachments/assets/ec109361-bcbf-444b-bc52-ec27d6383441" />
